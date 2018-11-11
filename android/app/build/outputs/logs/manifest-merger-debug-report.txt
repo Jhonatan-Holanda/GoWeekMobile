@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /home/jhow/Documentos/goweek/mobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/846456e6d1953f5a5856f69cccb689ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cc23617df4ae78b30cb989c3de4ba724/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d2e790da7dbe963b4b2fc2a8764ffe2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f096e184ed479eb415fa83a1a7dd4dec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e556f4e4d5922db13aa2dc5ffa623b5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/261c9637688a068d8565dfda186b3010/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/574eb172b6458800812b57e0ca97c92b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b688a98f774a86ed6b94df41e860a426/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/211b38a292d160b5c7f9f00491ad6b50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3326ef7fb23638bc13b265ed5962b431/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6d5769022f4fd439364d091fcf1c2049/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b2397d17d3ec0d20b4889f0b28b0036f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7073e714aa617f52f92efe84fe920916/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/jhow/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1b71be583177beb921338d09d331bf5e/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b5d9f77362f35de04e6f06700833abd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc9ed19f559c980bf0582078097a507d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/213886611546effbae0e8a3be5fbfe98/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb218712536f9789b393df87131449e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44226b3de85992b158ac61a5c248fe6c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7073e714aa617f52f92efe84fe920916/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7073e714aa617f52f92efe84fe920916/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/jhow/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1b71be583177beb921338d09d331bf5e/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/jhow/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1b71be583177beb921338d09d331bf5e/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.mobile.MainActivity
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/jhow/Documentos/goweek/mobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/jhow/Documentos/goweek/mobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /home/jhow/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/2c9946b8a340d1230f2336a46cfea406/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/846456e6d1953f5a5856f69cccb689ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/846456e6d1953f5a5856f69cccb689ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cc23617df4ae78b30cb989c3de4ba724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cc23617df4ae78b30cb989c3de4ba724/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d2e790da7dbe963b4b2fc2a8764ffe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d2e790da7dbe963b4b2fc2a8764ffe2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f096e184ed479eb415fa83a1a7dd4dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f096e184ed479eb415fa83a1a7dd4dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e556f4e4d5922db13aa2dc5ffa623b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e556f4e4d5922db13aa2dc5ffa623b5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/261c9637688a068d8565dfda186b3010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/261c9637688a068d8565dfda186b3010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/574eb172b6458800812b57e0ca97c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/574eb172b6458800812b57e0ca97c92b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b688a98f774a86ed6b94df41e860a426/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b688a98f774a86ed6b94df41e860a426/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/211b38a292d160b5c7f9f00491ad6b50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/211b38a292d160b5c7f9f00491ad6b50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3326ef7fb23638bc13b265ed5962b431/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3326ef7fb23638bc13b265ed5962b431/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6d5769022f4fd439364d091fcf1c2049/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/6d5769022f4fd439364d091fcf1c2049/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b2397d17d3ec0d20b4889f0b28b0036f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/b2397d17d3ec0d20b4889f0b28b0036f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7073e714aa617f52f92efe84fe920916/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/jhow/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7073e714aa617f52f92efe84fe920916/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b5d9f77362f35de04e6f06700833abd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0b5d9f77362f35de04e6f06700833abd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc9ed19f559c980bf0582078097a507d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bc9ed19f559c980bf0582078097a507d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/213886611546effbae0e8a3be5fbfe98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/213886611546effbae0e8a3be5fbfe98/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb218712536f9789b393df87131449e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bb218712536f9789b393df87131449e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44226b3de85992b158ac61a5c248fe6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhow/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/44226b3de85992b158ac61a5c248fe6c/AndroidManifest.xml:20:5-44
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/jhow/Documentos/goweek/mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
